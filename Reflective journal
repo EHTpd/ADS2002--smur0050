@@ -1,0 +1,77 @@
+Week 1
+The starting week, we started with introductions and an overview of the course, 
+including group projects such as the catheter placement project, a stock tweet data analysis 
+and solar activity activity project. Despite my initial nervousness about the upcoming workload,
+seeing familiar faces in the classes made me more comfortable with interaction and group work. 
+Out of the possible projects, I was drawn to the solar activity project, as it aligns with my interest in 
+analysing natural phenomena using data. Moreover we were tasked in selecting an Australian company for an essay focused on the said business relationship with big data. I chose QantasAirlines as it intrigued by how they use data to enhance operational efficiency. This week taught me the importance of having a familiar surroundings and a clear focus on my interests when transitioning into a new environment. Moving forward I plan to actively engage with the solar activity project and leverage available resources to strengthen my knowledge in data analysis. 
+For my essay, I will explore Qantas’s use of big on how data driven decision making is applied.
+
+
+Week 2
+This week marked the beginning of our work with a coding platform called Google Colab, 
+which was a shift from the Jupyter Notebook environment I am used to.
+Initially I found the transition challenging as I found myself being stuck as I tried to adapt to the different interface and functionality that
+Colab offers. Despite these initial difficulties, I dedicated time to learn its features, 
+experimenting with its tools and seeking help with my peers when needed.
+This eventually allowed me to adapt to the new environment. On top of this,
+I was excited to eb assignment to the solar activity projects,
+working with a  team of six peers who share similar interests. We had a comprehensive overview of the project objectives and scope with our mentor. 
+This talk was quite informative as we discussed various ways we can attack our project. 
+Also looked into a way how we model the solar activity data, such as LSTM networks and Convolutional Neural Networks. 
+The complexity of these models feel like a huge task, but I feel enthusiastic that I can gain valuable skill and knowledge from doing my tasks.
+
+Week 3
+This week in class on learning about gradient descent and its application to 
+linear regression using the given diabetes dataset. 
+We practised with the Vannial Gradient Descent to understand how this algorithm helps minimise errors 
+by iteratively adjusting the models parameters. 
+This hands on experience made it clear how gradient descent worked. 
+For the group work for the solar activity projects, we stared by researching the variables in the dataset. 
+The research showed how the Auroral Electrojet index is derived from data collected at aground mangemeter
+observatories in the Northern Hemisphere and measures magnetic activity in the auroral zone.
+It's calculated using the difference between the auroral electrojet upper and lower indices,
+which reflects the intensity of the eastward and westward electrojets. 
+Even though we now have a better understanding of these indices, 
+I'm still kinda unclear about the exact goal of our project. I believe with more meetings and discussions,
+we’ll be able to find a clear research question.
+
+
+Week 4
+
+This week the classwork focused on understanding the perceptron model,
+building on the model with linear regression through covering topics like the perceptron model and 
+perceptron cost function. With the group work on solar activity,
+we imported and cleaned the dataset which include the variables as previously mentioned 
+like AE, AU, and AL indices, not to mention the date, time day and Disturbance storm time index.
+After cleaning the dataset included entries from jan 1 1957 to August 31 2024, 
+we conducted some initial processing and analysis but creating time series plots for the dst values for a random year in the data. 
+In this case it as 2004 to understand the data better, Similar analysis were done with the Distance to Extreme values.
+To manage our project efficiently we also discussed how to allocate specific 
+tasks to each group element to ensure that everyone is contribution. 
+Thus to create a well coordinated team we aim to synchronise our effort and divide the group work. 
+
+
+Week 5
+This week, the classwork went through Multilayer Perceptrons(MLPs) backpropagation,
+gradient descent, activation function and how to use TensorFlow and Kera.
+We practised by processing and loading data, creating and training models, and evaluating their accuracy. 
+This gave us hands-on experience with optimising and building neural networks. 
+For our solar activity project, we performed a cluster analysis on the DST values, 
+splitting them into three categories. Cluster 0 (purple) had DST values near zero,
+indicating low geomagnetic activity. Cluster 1 (Teal) had moderately negative DST values, suggesting mild geomagnetic storms.
+Cluster 2 (Yellow) had highly negative DST values, indicating strong geomagnetic storms and significant space weather events. 
+We used the Elbow method to find the optimal number of clusters and calculate the silhouette score to assess the quality of the clustering.
+These methods helped us better understand patterns in geomagnetic activity.
+For the future we need to be more organised in terms of what work each individual does and to find an overall question that the group needs to answer to prepare
+for the mock presentation.
+
+Week 6
+This week, the class focused on neural networks. 
+We worked on the Auto MPG dataset from UCI Machine Learning Repository, 
+exploring both linear and nonlinear regression models and analysing their performance. 
+The exercises provided practical experience for us to implement and evaluate different types of regression models using neural networks. 
+In preparation for our mock presentation, our group has finally decided on a goal: to focus on predicting recovery time and actual storms using DST values.
+Each partnership within the group will be responsible for using different models to predict the storms and recovery time. These included CNN and LSTM models. 
+We have scheduled a meeting for Tuesday 430 to review our presentation and make any necessary adjustments. 
+The group started working on the introduction of our report, but I'm still feeling nervous about the presentation and need to make sure the group is well prepared.
