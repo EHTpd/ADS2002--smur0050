@@ -75,3 +75,57 @@ In preparation for our mock presentation, our group has finally decided on a goa
 Each partnership within the group will be responsible for using different models to predict the storms and recovery time. These included CNN and LSTM models. 
 We have scheduled a meeting for Tuesday 430 to review our presentation and make any necessary adjustments. 
 The group started working on the introduction of our report, but I'm still feeling nervous about the presentation and need to make sure the group is well prepared.
+
+
+Week 7
+
+In Week 7, I focused on submitting my essay about Virgin Airlines and its role in utilizing big data to enhance operational efficiency and 
+customer experience. This task allowed me to explore the intersection of aviation and data analytics, highlighting how Virgin Airlines leverages data 
+for strategic decision-making. Additionally, I delved into neural network exercises using TensorFlow, concentrating on the concepts of overfitting and underfitting.
+To reinforce my understanding, I applied these concepts to the fuel efficiency dataset, developing a regression model that illustrated the implications of model complexity 
+on predictive performance. This week was a valuable opportunity to synthesize my coursework with practical applications in the context of big data and machine learning.
+
+Week 8
+In Week 8, I focused on image classification exercises and an introduction to Convolutional Neural Networks (CNNs). The notebook I 
+worked through introduced essential concepts for understanding basic CNNs, which are vital for image processing. It covered definitions 
+and workings of convolutions, explaining how they act as filters that learn local patterns through convolutional layers. 
+Additionally, I engaged in group work reflecting on a mock presentation. The feedback highlighted several areas for improvement, such as 
+enhancing the overall flow and consistency of the presentation. It noted the quality differences in slide structure across sections and 
+recommended adopting more professional body language. The need to maintain better eye contact with the audience, listen actively to team members, and rehearse the delivery was emphasized. 
+
+Week 9
+This week, I focused on enhancing my skills in neural networks and image classification, as well as reflecting on my presentation abilities. 
+I worked on exercises involving overfitting and underfitting using TensorFlow by implementing a regression model with the fuel efficiency dataset,
+which provided practical insights into the challenges of training models effectively and balancing bias and variance. Additionally,
+I made significant strides in my project on classifying CIFAR images with a Convolutional Neural Network (CNN) using Keras, delving into the model's 
+architecture and exploring the implementation of various layers such as 2D convolutional and max-pooling layers. I also focused on the training process and 
+conducted model evaluations using confusion matrices to assess the model's classification performance. Furthermore, I took time to reflect on a recent mock
+presentation and found the feedback I received on its structure, delivery, and content invaluable, which I plan to apply to improve my presentation skills for future assignments.
+My goals for next week include continuing to refine my CNN model for better performance, exploring techniques to mitigate overfitting, and preparing for upcoming presentations by integrating the feedback I received.
+
+Week 10
+
+
+This week, I focused on model interpretability in machine learning, particularly with linear models, Decision Trees, and modern techniques like LIME and SHAP.
+I appreciated the simplicity of linear models, where the coefficients clearly show how features impact predictions. Transitioning to tree-based models, 
+I explored feature importance metrics, which highlight key variables but lack individual prediction explanations. Implementing LIME and SHAP on the Abalone dataset was particularly enlightening.
+LIME helped me understand specific predictions, while SHAP provided a consistent view of feature contributions across all predictions. In our group meetings,
+we discussed our implementation of these interpretability methods. Collaborating with my peers allowed us to share insights and optimise our code effectively.
+Overall, this week reinforced the importance of making machine learning models more transparent and the value of teamwork in tackling complex topics.
+
+Week 11
+I focused on enhancing my understanding of model interpretability in machine learning, particularly through LIME (Local Interpretable Model-agnostic Explanations)
+and SHAP (Shapley Additive explanations). I revisited the Abalone dataset to explore feature importance and the implications for model transparency, 
+noting the benefits of linear models for interpretability and the clear relationship between coefficients and predictions. Additionally, 
+I collaborated with my group on our LSTM project, preparing for a crucial meeting to discuss our findings and finalize our model configurations. 
+We organized our agenda, outlining key points to cover, including model performance metrics and feature selection strategies.
+The week culminated in successfully installing LIME and SHAP libraries in my Colab environment, conducting experiments that illustrated
+how LIME assesses the impact of individual feature changes on model predictions and how SHAP quantifies each feature's contribution to overall predictions. 
+This hands-on experience provided me with valuable insights into the practical applications of these interpretability techniques, reinforcing the importance of understanding model behaviour for informed decision-making.
+
+Week 12
+In Week 12, our focus was entirely on preparing for the group presentation. We held two meetings to discuss the logistics, such as the structure of
+the presentation, what content to include, and who would be responsible for each section. My role was to introduce the context, specifically explaining solar Dst, 
+the stakeholders involved, the formation of geomagnetic storms, and our overall objectives. We worked closely to ensure that our presentation was clear, 
+well-organized and met the assessment criteria to maximize our chances of getting the best marks. Collaboration was key, and we made sure to align our parts for a cohesive delivery.
+
